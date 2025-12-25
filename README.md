@@ -20,17 +20,17 @@ Every time a new email arrives in your inbox, it's analyzed by your local AI, cl
 
 ## ⚙️ Features
 
-🧠 **Local LLM processing** — Emails are classified by your own AI model (via Ollama).  
+🧠 **Local LLM processing** - Emails are classified by your own AI model (via Ollama).  
 
-📧 **Gmail API integration** — Automatic retrieval and labeling of incoming emails.  
+📧 **Gmail API integration** - Automatic retrieval and labeling of incoming emails.  
 
-🪄 **n8n automation** — Complete workflow to fetch, analyze, and label emails automatically.  
+🪄 **n8n automation** - Complete workflow to fetch, analyze, and label emails automatically.  
 
-🔒 **Privacy-focused** — All AI processing happens locally on your machine.  
+🔒 **Privacy-focused** - All AI processing happens locally on your machine.  
 
-🧩 **Modular structure** — Easy to adapt categories and classification logic.  
+🧩 **Modular structure** - Easy to adapt categories and classification logic.  
 
-🏷️ **Smart categorization** — Emails are sorted into labels like Advertisement, Private, Computing, and Youtube.
+🏷️ **Smart categorization** - Emails are sorted into labels like Advertisement, Private, Computing, and Youtube.
 
 ---
 
